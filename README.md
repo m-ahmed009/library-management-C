@@ -1,7 +1,8 @@
 # Library Management System in C
 This repository contains a simple Library Management System built using C programming.
 
-The system allows users to add books, search for books by title, and display all books in the library. It’s an ideal project for beginners to learn the basics of file handling, structures, and user interaction in C.
+The system allows users to add books, search for books by title, and display all books in the library.
+It’s an ideal project for beginners to learn the basics of file handling, structures, and user interaction in C.
 
 # Features:
 Add Books: Input details such as title, author, and ISBN to add a new book to the library database.
