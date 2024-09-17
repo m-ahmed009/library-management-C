@@ -14,7 +14,9 @@ Display All Books: View a list of all the books currently available in the libra
 
 # Technologies Used:
 C Language: The system is developed entirely in C, focusing on core programming concepts like file handling and structures.
+
 How to Use:
+
 Clone the repository:
 bash
 
